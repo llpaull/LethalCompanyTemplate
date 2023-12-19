@@ -1,0 +1,9 @@
+{
+  "name": "MineMineMineMod",
+  "description": "This mod replaces Hoarder bug chitters with Mine Mine Mine sound from finding nemo.",
+  "version_number": "1.0.0",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100"
+  ],
+  "website_url": "https://github.com/llpaull/MineMineMineMod"
+}
